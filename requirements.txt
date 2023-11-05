@@ -1,0 +1,7 @@
+uvicorn
+requests
+fastapi
+jwt
+pymongo
+passlib
+python-multipart
